@@ -1,0 +1,36 @@
+#navbar-brand{
+    width: 120px;
+    height: 90px;
+}
+
+.navigator{
+     background-color: #a0969618;
+
+ }
+ main{
+     height: 1000px;
+    background-image: url("/background1.jpg");
+    background-size: 1265px 1000px;
+    background-repeat: no-repeat;
+ }
+
+
+ img{
+     width: 170px;
+     height: 110px;
+ }
+
+#sun_icon{
+    position: relative;
+    height: 80px;
+    width: 100px;
+    left: 200px;
+    top: 100px;
+}
+
+#tangier{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    left: 500px;
+    top: 180px;
+}
